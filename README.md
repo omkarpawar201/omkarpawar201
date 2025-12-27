@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm am a fresher<br>Looking for a software engineering role
+An ENTC engineer with a keen interest in software development and strong problem-solving skills. <br>Eager to contribute to innovative software projects while continuously enhancing my expertise in the field.
 
 
 ## 🌐 Socials:
