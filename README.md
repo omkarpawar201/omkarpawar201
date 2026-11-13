@@ -1,14 +1,140 @@
-# 💫 About Me:
-An ENTC engineer with a keen interest in software development and strong problem-solving skills. <br>Eager to contribute to innovative software projects while continuously enhancing my expertise in the field.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Omkar%20Pawar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-pawar-b7b495244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarpawar0704@gmail.com) 
+<a href="https://github.com/omkarpawar201">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+software.;Exploring+local+AI.;Solving+problems." alt="Typing tagline" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=omkarpawar201&icon=4&color=0)](https://visitcount.itsvg.in)
+<a href="https://linkedin.com/in/omkar-pawar-b7b495244">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:omkarpawar0704@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-DC5252?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/omkarpawar201">
+  <img src="https://img.shields.io/badge/GitHub-Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<br/>
+
+## ✨ About Me
+
+I'm an **Electronics & Telecommunication Engineering** graduate passionate about software engineering, emerging technologies, and building practical solutions.
+
+I enjoy working across many areas of development, from full-stack applications and backend architecture to local AI, Linux, and system-level programming.
+
+- 💻 Developing full-stack applications and desktop software
+- 🤖 Exploring local LLMs, AI agents, and RAG architectures
+- 🐧 Interested in Linux, open-source software, and desktop technologies
+- ⚙️ Exploring C++, robotics, embedded systems, and automation
+- 🌱 Continuously learning and building new things
+
+<br/>
+
+## 🛠️ Technical Skills
+
+<br/>
+<table align="center">
+  <tr>
+    <td width="200" align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,cpp,c,cs,python,js,ts&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td width="200" align="right"><b>Frontend & Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,html,css,spring,dotnet,nodejs&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td width="200" align="right"><b>Databases & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,aws&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td width="200" align="right"><b>AI, Tools & Platforms</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,opencv,git,github,linux,postman,docker,raspberrypi&theme=dark" /></td>
+  </tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 Vector
+A local-first AI desktop assistant focused on conversational AI, local LLM integration, and knowledge retrieval.
+
+<br/>
+
+`Cactus Needle` `Ollama` `RAG` `Desktop`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎵 MusifyBeats
+A full-stack music streaming application with microservices architecture, authentication, and playlist management.
+
+<br/>
+
+`React` `Spring Boot` `ASP.NET Core` `MSSQL`
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 DIY Phone Link
+An experimental Android and desktop integration project exploring connected-device functionality.
+
+<br/>
+
+`Android` `Kotlin` `Desktop`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🔭 Currently Exploring
+
+| Area | Interests |
+|:---|:---|
+| 🧠 **Artificial Intelligence** | Local LLMs · AI Agents · RAG · Model Optimization |
+| 🏗️ **Software Engineering** | System Design · Microservices · Desktop Applications |
+| ⚡ **Systems Development** | C++ · Linux · System Programming |
+| 🤖 **Hardware & Robotics** | Embedded Systems · IoT · Robotics |
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=omkarpawar201&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=8b5cf6&currStreakLabel=a78bfa" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/8b5cf6/omkarpawar201" alt="Contribution graph" width="95%" />
+
+<br/><br/>
+
+<img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Thanks for visiting my profile!**
+
+*Always curious. Always building. Always learning.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
